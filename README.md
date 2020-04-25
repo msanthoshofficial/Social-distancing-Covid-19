@@ -1,2 +1,2 @@
 # Rithackathon
- Social distancing 
+We are 
