@@ -1,4 +1,4 @@
-# Rithackathon ID:D104 TENET
+# social distancing-Covid19
  Social Distance Alert with Convolutional Neural Network,OpenCV,YOLO3
 
 1. Detect the humans in the frame with yolov3 convolutional neural network.
